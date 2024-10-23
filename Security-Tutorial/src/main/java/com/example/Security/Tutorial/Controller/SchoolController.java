@@ -23,7 +23,8 @@ public class SchoolController {
         return "Welcome ADMIN";
     }
     //added extra lines
-    //added extra lines
-    //added extra lines
+    //added some code
+    //added some code
+    //added some code 
 }
 
