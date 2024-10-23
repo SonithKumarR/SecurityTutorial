@@ -22,5 +22,8 @@ public class SchoolController {
     public String admin(){
         return "Welcome ADMIN";
     }
+    //added extra lines
+    //added extra lines
+    //added extra lines
 }
 
