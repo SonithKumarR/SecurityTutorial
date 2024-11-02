@@ -7,7 +7,7 @@ import org.springframework.web.bind.annotation.RestController;
 
 @RestController
 @RequestMapping("/api/v1")
-public class SchoolController {
+public class SchoolController {// localhost:8080/api/v1/home (In Browser)
 
     @GetMapping("/home")
     public String home(){
